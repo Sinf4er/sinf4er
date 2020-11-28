@@ -17,3 +17,13 @@
 Not that much happening at the moment on my private github but i will try to improve it : 
 
 ![Robins's github stats](https://github-readme-stats.vercel.app/api?username=sinf4er&show_icons=true&count_private=true&hide=issues,prs)
+
+-----
+
+### 📝 Check out my first article!
+
+<!-- BLOG:START -->
+
+- [10 Useful Websites For Every Web Developer](https://glaeser.tech/10-useful-websites)
+
+<!-- BLOG:END -->
