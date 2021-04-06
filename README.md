@@ -20,10 +20,13 @@ Not that much happening at the moment on my private github but i will try to imp
 
 -----
 
-### 📝 Check out my first article!
+### 📝 Check out my latest articles!
 
 <!-- BLOG:START -->
 
 - [10 Useful Websites For Every Web Developer](https://glaeser.tech/10-useful-websites)
+- [The User Experience of a Burger Menu](https://glaeser.tech/the-user-experience-of-a-burger-menu)
+- [Chrome 89 - Group Tabs](https://glaeser.tech/chrome-89-group-tabs)
+
 
 <!-- BLOG:END -->
