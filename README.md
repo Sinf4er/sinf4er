@@ -30,3 +30,6 @@ Not that much happening at the moment on my private github but i will try to imp
 
 
 <!-- BLOG:END -->
+
+-----
+<a href="https://app.daily.dev/Sinf4er"><img src="https://api.daily.dev/devcards/68af8b38d19740e4902eb572408beb82.png?r=1yk" width="250" alt="Robin Glaeser's Dev Card"/></a>
