@@ -32,4 +32,10 @@ Not that much happening at the moment on my private github but i will try to imp
 <!-- BLOG:END -->
 
 -----
+
+### 📝 My daily.dev experience ❤️
 <a href="https://app.daily.dev/Sinf4er"><img src="https://api.daily.dev/devcards/68af8b38d19740e4902eb572408beb82.png?r=1yk" width="250" alt="Robin Glaeser's Dev Card"/></a>
+
+-----
+### 📝 My Current home setup 🚂
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-pro-1700x&memory=32gb&gpu=nvidia-geforce-gtx-1080-ti&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-pro-1700x/32gb/nvidia-geforce-gtx-1080-ti/forum.png"></a>
