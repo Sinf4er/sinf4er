@@ -3,15 +3,14 @@
 ### Some Things About Me:
 
 - 🔍 Focusing on my work to improve my skill and knowledge
-- 🌱 Learning GraphQl at the moment
-- 🔆 and TypeScript on long-term
 - 🌐 Startet my own personal small blog [glaeser.tech](https://glaeser.tech/)
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + brownies or a good drink 🍹
-- ❤️ The emoji i use at least once a day on slack: <img width="18" src="https://github.com/Sinf4er/sinf4er/blob/main/waving.gif" alt="Here is a little bit about me!">
-- ⚡ Fun fact: I'm way too much on Youtube
 - 💎 My treasures: My gaming pc, selfmade fudgy brownies, family and friends
 - 🎮 The favourite game at the moment: [Dorfromantik](https://store.steampowered.com/app/1455840/Dorfromantik/)
 - 🏠 If i had to choose a Hogwarts House then it would be Gryffindor
+- #### 📝 My Current home setup 🚂
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-pro-1700x&memory=32gb&gpu=nvidia-geforce-gtx-1080-ti&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-pro-1700x/32gb/nvidia-geforce-gtx-1080-ti/forum.png"></a>
+
 
 -----
 Not that much happening at the moment on my private github but i will try to improve it : 
@@ -35,7 +34,3 @@ Not that much happening at the moment on my private github but i will try to imp
 
 ### 📝 My daily.dev experience ❤️
 <a href="https://app.daily.dev/Sinf4er"><img src="https://api.daily.dev/devcards/68af8b38d19740e4902eb572408beb82.png?r=1yk" width="250" alt="Robin Glaeser's Dev Card"/></a>
-
------
-### 📝 My Current home setup 🚂
-<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-pro-1700x&memory=32gb&gpu=nvidia-geforce-gtx-1080-ti&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-pro-1700x/32gb/nvidia-geforce-gtx-1080-ti/forum.png"></a>
