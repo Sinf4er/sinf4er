@@ -3,7 +3,6 @@
 <p align="center">
   <b>Frontend Developer · React & Next.js · Building Accessible & User-Centered Interfaces</b><br>
   <a href="https://www.linkedin.com/in/robin-glaeser">LinkedIn</a> • 
-  <a href="https://foments.app">Foments</a> • 
   <a href="mailto:robin.glaeser@foments.app">Email</a>
 </p>
 
@@ -11,9 +10,9 @@
 
 ### 🚀 About Me
 
-I'm a **Frontend Developer** based in Vienna, Austria 🇦🇹, passionate about creating **accessible, user-focused** digital experiences.
+I'm a **Frontend Developer** based in Vienna, Austria 🇦🇹, passionate about creating **accessible, user-focused and performant** digital experiences.
 
-With a background in Web Design & Development (SAE Institute) and 6+ years of experience at **XXXLdigital**, I bridge the gap between design and engineering — building scalable, performant, and visually engaging web apps.
+With a background in Web Design & Development (SAE Institute) and 7+ years of experience at **XXXLdigital**, I bridge the gap between design and engineering — building scalable, performant, and visually engaging web apps.
 
 I love working with:
 - ⚛️ **React & Next.js**
@@ -44,22 +43,10 @@ I care deeply about **performance, accessibility, and maintainability** — not 
 ### ☕ Fun Facts
 
 - 🕶️ Coding setup: **Dark mode**, **music**, and **way too much coffee**
-- 🎮 Currently obsessed with: [Age of Empires IV](https://store.steampowered.com/app/1466860/Age_of_Empires_IV/)
+- 💡 Currently obsessed with: Firebase
 - 🏠 Hogwarts House: **Gryffindor**
-- 🧭 Always learning something new — lately: **Vike**, **SSR/SSG**, and **Web Accessibility Testing**
-- 🏗️ Currently working on: [Foments](https://foments.app/)
+- 🧭 Always learning something new — lately: **Vike**, **SSR/SSG**, and **Firebase**
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinf4er&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinf4er&layout=compact&theme=radical" height="150" />
-</p>
-<p align="center">
-Not that much public at the moment, but maybe in the future!
-</p>
 ---
 
 ### 💬 Let's Connect
