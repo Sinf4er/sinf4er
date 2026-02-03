@@ -3,7 +3,7 @@
 <p align="center">
   <b>Frontend Developer · React & Next.js · Building Accessible & User-Centered Interfaces</b><br>
   <a href="https://www.linkedin.com/in/robin-glaeser">LinkedIn</a> • 
-  <a href="mailto:robin.glaeser@foments.app">Email</a>
+  <a href="mailto:robinglaeser@gmail.com">Email</a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ I care deeply about **performance, accessibility, and maintainability** — not 
 ### 💬 Let's Connect
 
 If you're into **React**, **UX**, or just want to talk about building better digital products —  
-reach out on [LinkedIn](https://www.linkedin.com/in/robin-glaeser) or say hi via [robin.glaeser@foments.app](mailto:robin.glaeser@foments.app).
+reach out on [LinkedIn](https://www.linkedin.com/in/robin-glaeser) or say hi via [robinglaeser@gmail.com](mailto:robinglaeser@gmail.com).
 
 ---
 
